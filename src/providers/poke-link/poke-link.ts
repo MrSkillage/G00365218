@@ -29,4 +29,30 @@ export class PokeLinkProvider {
     return this.http.get("https://pokeapi.co/api/v2/pokemon/venusaur");
   }
 
+  getCharmander() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/charmander");
+  }
+
+  getCharmeleon() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/charmeleon");
+  }
+
+  getCharizard() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/charizard");
+  }
+
+  getSquirtle() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/squirtle");
+  }
+
+  getWartortle() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/wartortle");
+  }
+
+  getBlastoise() : Observable<any> {
+    return this.http.get("https://pokeapi.co/api/v2/pokemon/blastoise");
+  }
+
+  
+
 }
