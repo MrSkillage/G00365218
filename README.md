@@ -12,8 +12,8 @@ User Guide:
 2) This second page is the 'Main Page'.  Here you will see a greeting saying "Welcome ***", where *** represents your chosen username,
 And a list of different pokemon.  Down the botton of the page is located a button called 'Display Pokemon Type'.  If you click that button you will be taken to the 'Pokemon Type Page'.
 
-3) After selected a pokemon you will be brought to the final page called 'Pokemon Page'. Here you will see information on the pokemon such as their name, picture, height, weight, and type. (Functionality is limited to one pokemon being displayed).
+3) After selected a pokemon you will be brought to the final page called 'Pokemon Page'. Here you will see information on the pokemon such as their name, picture, height, weight, and type. (When loading in for the first time the picture will sometimes not display instantly, this can be fixed by simple hitting the back button and then returning to this page again.)
 
 Conclusion:
 This was a fun and interesting topic to study and I will look into more in my own future.
-I wish I had given this project more time.
+If I figured out a way I would've liked to implement a search by name basis which could be used to return over 800 different JSON files.
